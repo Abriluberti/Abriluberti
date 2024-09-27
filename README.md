@@ -8,7 +8,7 @@
 
 ### 👨‍💻 About Me :
 
-- 📝 I am in the second year of the programming tecnticature
+- 📝 I am a programming technician
 
 - 📫 How to reach me **abriluberti07@gmail.com**
 
