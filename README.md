@@ -1,7 +1,8 @@
 <div id="header" align="center">
     <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="200" />
     <h1 align="center">¡Hola 👋, soy Abril Uberti!</h1>
-    <h3 align="center">Soy técnica en programación y apasionada por la tecnología.</h3></div>
+    <h3 align="center">Soy técnica en programación y apasionada por la tecnología.</h3>
+</div>
 
 ---
 
@@ -16,16 +17,16 @@
 ### 💼 Proyectos Destacados:
 
 1. **Clinitech**
-   - Aplicación web para la gestión de clínicas que permite administrar citas, pacientes y facturación. Utiliza tecnologías como HTML, CSS, JavaScript y PHP para una interfaz intuitiva y funcional.
+   - Clinitech es una página web desarrollada con Angular, TypeScript, HTML y CSS, diseñada para facilitar la gestión virtual de pacientes, especialistas y turnos. Esta aplicación permite a los usuarios administrar citas, realizar seguimientos de historial médico y conectar fácilmente con profesionales de la salud. Utiliza Firebase para el almacenamiento y la autenticación de datos.
 
 2. **Sala de Juegos**
-   - Plataforma de entretenimiento en línea donde los usuarios pueden jugar varios juegos en una sala virtual. Desarrollada con TypeScript y Node.js, ofrece una experiencia interactiva y amigable.
+   - Desarrollé una colección de juegos web interactivos para mejorar habilidades cognitivas y motoras. Los juegos incluyen Ahorcado, Simón, Mayor o Menor y Preguntados, diseñados para ser educativos y entretenidos. Utilicé HTML, CSS y TypeScript junto con Angular para crear la interfaz, y Firebase para almacenar los datos en local storage y gestionar la base de datos.
 
-3. **Restaurante**
-   - Sistema de gestión para restaurantes que incluye reservas, menús y pedidos en línea. Implementado con React y MySQL, optimiza la operación del restaurante y mejora la experiencia del cliente.
+3. **Carrera en la Ciudad**
+   - Desarrollo de un videojuego en Unity utilizando C#. En este juego, el personaje principal debe recolectar monedas mientras evita a un enemigo que lo persigue en la ciudad.
 
-4. **Carrera la Ciudad**
-   - Aplicación de seguimiento y gestión de eventos deportivos en la ciudad. Facilita la inscripción y el seguimiento de los participantes, utilizando Python y Flask para el backend y HTML/CSS para el frontend.
+4. **Restaurante**
+   - Desarrollo de una aplicación móvil para la gestión de información en un restaurante, utilizando Ionic, Angular, HTML, CSS y Firebase. El proyecto se gestiona a través de JIRA para seguimiento de tareas y GitHub para control de versiones. La aplicación permite interacciones eficientes entre diferentes perfiles de usuario (dueños, supervisores, empleados y clientes) y cuenta con funcionalidades como notificaciones push, generación automática de códigos QR y validaciones de datos en formularios.
 
 ---
 
@@ -35,21 +36,24 @@ Puedes ver todos mis proyectos y trabajos en mi portafolio: [Mi Portafolio](http
 
 ---
 
+### 🔨 Lenguajes y Herramientas:
+
 <div align="left">
-    <h3>🔨 Lenguajes y Herramientas:</h3>
-  
-    ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) 
-    ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
-    ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-    ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-    ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-    ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) 
-    ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
-    ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) 
-    ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
-    ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)  
-    ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)  
-    ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+    <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" />
+    <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
+    <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
+    <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+    <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+    <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" />
+    <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
+    <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />
+    <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
+    <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" />
+    <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
+    <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+    <img src="https://img.shields.io/badge/angular-%23E23237.svg?style=for-the-badge&logo=angular&logoColor=white" />
+    <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase&logoColor=white" />
+    <img src="https://img.shields.io/badge/ionic-%23ffffff.svg?style=for-the-badge&logo=ionic&logoColor=3880ff" />
 </div>
 
 ---
