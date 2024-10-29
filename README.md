@@ -17,22 +17,23 @@
 ### 💼 Proyectos Destacados:
 
 1. **Clinitech**
-   - Clinitech es una página web desarrollada con Angular, TypeScript, HTML y CSS, diseñada para facilitar la gestión virtual de pacientes, especialistas y turnos. Esta aplicación permite a los usuarios administrar citas, realizar seguimientos de historial médico y conectar fácilmente con profesionales de la salud. Utiliza Firebase para el almacenamiento y la autenticación de datos.
+   - Página web para la gestión de pacientes y turnos, desarrollada en Angular y Firebase.
 
 2. **Sala de Juegos**
-   - Desarrollé una colección de juegos web interactivos para mejorar habilidades cognitivas y motoras. Los juegos incluyen Ahorcado, Simón, Mayor o Menor y Preguntados, diseñados para ser educativos y entretenidos. Utilicé HTML, CSS y TypeScript junto con Angular para crear la interfaz, y Firebase para almacenar los datos en local storage y gestionar la base de datos.
+   - Colección de juegos web interactivos diseñados para mejorar habilidades cognitivas, usando HTML, CSS y TypeScript.
 
 3. **Carrera en la Ciudad**
-   - Desarrollo de un videojuego en Unity utilizando C#. En este juego, el personaje principal debe recolectar monedas mientras evita a un enemigo que lo persigue en la ciudad.
+   - Videojuego en Unity donde el jugador recolecta monedas y evita enemigos.
 
 4. **Restaurante**
-   - Desarrollo de una aplicación móvil para la gestión de información en un restaurante, utilizando Ionic, Angular, HTML, CSS y Firebase. El proyecto se gestiona a través de JIRA para seguimiento de tareas y GitHub para control de versiones. La aplicación permite interacciones eficientes entre diferentes perfiles de usuario (dueños, supervisores, empleados y clientes) y cuenta con funcionalidades como notificaciones push, generación automática de códigos QR y validaciones de datos en formularios.
+   - Aplicación móvil para la gestión de un restaurante, que incluye funcionalidades como notificaciones push y generación de códigos QR, utilizando Ionic y Firebase.
 
 ---
 
 ### 🌐 Portafolio
 
 Puedes ver todos mis proyectos y trabajos en mi portafolio: [Mi Portafolio](https://tu-portafolio-enlace.com) 
+
 ---
 
 ### 🔨 Lenguajes y Herramientas:
