@@ -32,8 +32,7 @@
 
 ### 🌐 Portafolio
 
-Puedes ver todos mis proyectos y trabajos en mi portafolio: [Mi Portafolio](https://tu-portafolio-enlace.com) *(asegúrate de cambiar esto por el enlace real de tu portafolio)*.
-
+Puedes ver todos mis proyectos y trabajos en mi portafolio: [Mi Portafolio](https://tu-portafolio-enlace.com) 
 ---
 
 ### 🔨 Lenguajes y Herramientas:
