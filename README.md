@@ -12,6 +12,11 @@
 
 - 📫 Puedes contactarme en **abriluberti07@gmail.com**.
 
+### 🌐 Portafolio
+
+Puedes ver todos mis proyectos y trabajos en mi portafolio: [Mi Portafolio](https://tu-portafolio-enlace.com) 
+
+---
 ---
 
 ### 💼 Proyectos Destacados:
@@ -30,11 +35,7 @@
 
 ---
 
-### 🌐 Portafolio
 
-Puedes ver todos mis proyectos y trabajos en mi portafolio: [Mi Portafolio](https://tu-portafolio-enlace.com) 
-
----
 
 ### 🔨 Lenguajes y Herramientas:
 
