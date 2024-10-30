@@ -14,7 +14,7 @@
 
 ### 🌐 Portafolio
 
-Puedes ver todos mis proyectos y trabajos en  [Mi Portafolio](https://ubertiabril-portafolio.web.app/proyectos) 
+Puedes ver todos mis proyectos y trabajos en  [Mi Portafolio](https://ubertiabril-portafolio.web.app/home) 
 
 ---
 ---
